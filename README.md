@@ -24,5 +24,5 @@ As for more usage you should go to the original project [futuresimple/FloatingAc
 
 Other
 ===
-```all rights unreserved,I just play a role as Porter```
+```all rights unreserved,I just play a role as Porter, if the original authors are disgruntled with my job, please let me know , i'll delete this repo~```
 
